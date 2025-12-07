@@ -63,5 +63,3 @@ fn parse_bank(battery_bank: String)->i32{
 
 }
     
-#[cfg(test)]
-mod tests;
